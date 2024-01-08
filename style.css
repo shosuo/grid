@@ -2,7 +2,7 @@
 body{
 background-color: white;
 background-size: 30%;
-display: block;
+display: flex;
 margin: auto;
 height: auto;
 
